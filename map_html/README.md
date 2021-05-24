@@ -1,1 +1,1 @@
-The html map export
+The html folium map export.
